@@ -33,13 +33,6 @@ This repository contains an optimized implementation of the `memset` function fo
     make
 
 
-3.Run the tests:
+3. Run the tests:
    ```bash
     make run
-
-
-4.Clean up build artifacts:
-   ```bash
-    make clean
-
-
