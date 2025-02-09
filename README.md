@@ -29,12 +29,17 @@ This repository contains an optimized implementation of the `memset` function fo
 
 
 2. Build the test program:
+   ```bash
     make
 
+
 3.Run the tests:
+   ```bash
     make run
 
+
 4.Clean up build artifacts:
+   ```bash
     make clean
 
 
